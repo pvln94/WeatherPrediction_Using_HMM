@@ -6,7 +6,7 @@ This website predicts the Precipitation that weather it is Sun or Fog or Rain.
 I used HMM(Hidden Markov Model) to do the prediction.
 
 Dataset:
-For the local Vijayawada's Weather dataset used api key which have data from 2024-01-01 to 2024-09-26.
+For the local Vijayawada's Weather dataset used api key which have data from 2024-01-01 to 2024-10-15.
 website for getting api is https://www.weatherapi.com/my/
 How to get api: https://www.youtube.com/watch?v=fbCUGUj_uIU&t=126s
 api key(for vijayawada): http://api.weatherapi.com/v1/current.json?key=f209d64f0866472da09232726242609&q=Vijayawada&aqi=no
