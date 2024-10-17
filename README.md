@@ -1,6 +1,6 @@
 # Weather Prediction Using HMM
 
-This project is a website that predicts the next day's weather based on historical data using a Hidden Markov Model (HMM). The dataset used contains weather reports from Vijayawada, including attributes such as:
+This project is a website that predicts the next day's weather based on historical data using a Hidden Markov Model (HMM). The dataset used contains weather reports from **Vijayawada**, including attributes such as:
 
 - Date
 - Precipitation
