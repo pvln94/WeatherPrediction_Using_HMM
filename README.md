@@ -36,7 +36,7 @@ code for website is "app.py".
 Preview of website:
 ![image](https://github.com/user-attachments/assets/6b09b67e-df4e-479c-89a5-6717426e9f8a)
 
-Note: I attached a zip folder, u can use it and execute following commands to get website.
+Note: execute "app.py" file from above by following commands to get website.
 
 
 Code to run website is as in follows
